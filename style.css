@@ -1,0 +1,92 @@
+.header{
+    background-color: green;
+    color: white;
+    align-items: center;
+}
+.navbar{
+    display: flex;
+    gap: 40%;
+    padding: 20px;
+    position: absolute;
+    top: 10%;
+    color: white;
+    font-weight: 100;
+}
+body{
+    padding: 200px;
+}
+.sofapic{
+    filter: contrast(0.9);
+}
+.container{
+    position: relative;
+}
+.elevate{
+    position: absolute;
+    color: white;
+    top: 40%;
+    left: 20%;
+    transform: translate(-50% -50%);
+    font-weight: 100;
+    font-family: 'poppins'; font-size: x-large;
+}
+.contactus{
+    background-color: grey;
+    color: white;
+    padding: 14px 40px;
+    border-color: grey;
+}
+.screen{
+    color: green;
+}
+.rasi{
+    color: grey;
+    font-family: 'poppins';font-size: 15px;
+}
+.contact{
+    padding: 14px 40px;
+    border-radius: 12px;
+}
+.know{
+    border-radius: 12px;
+    padding: 14px 40px;
+    background-color: green;
+    color: white;
+}
+.chair{
+    display: flex;
+    gap: 5%;
+}
+.icons{
+    display: flex;
+    gap: 7%;
+    background-color: rgb(231, 228, 228);
+    padding-top: 20px;
+}
+.premium{
+    display: flex;
+    gap: 5%;
+}
+.array{
+    font-family: 'poppins';font-size: 22px;
+    text-align: center;
+}
+.textile{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-family: 'poppins';font-size: 22px;
+}
+.techniques{
+    display: flex;
+    gap: 5%;
+}
+.pics{
+    width: 200px;
+    height: 200px;
+}
+.text{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
